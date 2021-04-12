@@ -6,7 +6,7 @@
 ## About me
 
 - ✨ I've been in the programming world since 2019
-- 📚 I'm currently learning graphql
+- 📚 I'm currently learning english at Cambly
 - 🎯 Goals: work remotely / make money as a developer
 - 🎲 And ... i play 🎸 guitar and ♟ chess online
 
