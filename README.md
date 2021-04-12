@@ -7,7 +7,7 @@
 
 - ✨ I've been in the programming world since 2019
 - 📚 I'm currently learning english at Cambly
-- 🎯 Goals: work remotely / make money as a developer
+- 🎯 Goals: earn in dollar :moneybag: / live in a cold place :snowflake:
 - 🎲 And ... i play 🎸 guitar and ♟ chess online
 
 ## I code with
