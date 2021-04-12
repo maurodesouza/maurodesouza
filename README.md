@@ -33,8 +33,11 @@
 <br />
 <br />
 
-<h2> How to reach me </h2>
-
-<p><a href="https://github.com/maurodesouza" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/maurodesouzaa" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:maurodesouza2017@hotmail.com" target="_blank"><img alt="Microsoft Outlook" src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-</p>
+<!-- <p>
+    <a title="My Github" href="https://github.com/maurodesouza" target="_blank">
+        <img alt="Github" src="./assets/github-logo.png" />
+    </a>
+    <a title="My Linkedin" href="https://www.linkedin.com/in/maurodesouzaa" target="_blank">
+        <img alt="LinkedIn" src="./assets/linkedin-logo.png" />
+    </a>
+</p> -->
