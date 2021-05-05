@@ -29,6 +29,10 @@
 
 <img align="left" title="Graphql" alt="Graphql" width="40px" src="./assets/graphql-logo.png" />
 
+<img align="left" title="Jest" alt="Jest" width="40px" src="./assets/jest-logo.png" />
+
+<img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.png" />
+
 
 <!-- <p>
     <a title="My Github" href="https://github.com/maurodesouza" target="_blank">
