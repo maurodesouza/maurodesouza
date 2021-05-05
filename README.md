@@ -29,7 +29,6 @@
 
 <img align="left" title="Graphql" alt="Graphql" width="40px" src="./assets/graphql-logo.png" />
 
-<img align="left" title="Redux" alt="Redux" width="40px" src="./assets/redux-logo.png" />
 
 <!-- <p>
     <a title="My Github" href="https://github.com/maurodesouza" target="_blank">
