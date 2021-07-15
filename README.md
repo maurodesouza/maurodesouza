@@ -5,7 +5,7 @@
 
 ## About me
 
-- ✨ I've been in the programming world since 2019
+- ✨ Creating bugs since 2019
 - 📚 I'm currently learning jest and storybook
 - 🎯 Goals: earn in dollar 💰 / live in a cold place ❄ and speak english 🚀
 - 🎲 And ... i play 🎸 guitar and ♟ chess online
