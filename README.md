@@ -12,16 +12,8 @@
 
 ## I code with
 
-<img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="./assets/visualstudiocode-logo.png" />
-
-<img align="left" title="HTML5" alt="HTML5" width="40px" src="./assets/html-logo.png" />
-
-<img align="left" title="CSS3" alt="CSS3" width="40px" src="./assets/css-logo.png" />
-
-<img align="left" title="Javascript" alt="Javascript" width="40px" src="./assets/javascript-logo.png" />
 
 <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.png" />
-
 
 <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react-logo.png" />
 
