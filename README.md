@@ -12,7 +12,6 @@
 
 ## I code with
 
-<img align="left" title="Nodejs" alt="Nodejs" width="40px" src="./assets/node-logo.svg" />
 
 <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.png" />
 
