@@ -12,12 +12,15 @@
 
 ## I code with
 
+<img align="left" title="Nodejs" alt="Nodejs" width="40px" src="./assets/node-logo.svg" />
 
 <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.png" />
 
 <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react-logo.png" />
 
 <img align="left" title="Next js" alt="Next js" width="40px" src="./assets/next-logo.png" />
+
+<img align="left" title="Chakra UI" alt="Chakra UI" width="40px" src="./assets/chakra-ui-logo.svg" />
 
 <img align="left" title="Graphql" alt="Graphql" width="40px" src="./assets/graphql-logo.png" />
 
