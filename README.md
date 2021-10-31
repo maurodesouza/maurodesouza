@@ -25,8 +25,9 @@
 
 <img align="left" title="Jest" alt="Jest" width="40px" src="./assets/jest-logo.svg" />
 
-<img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
+<img align="left" title="Cypress" alt="Jest" width="40px" src="./assets/cypress-logo.svg" />
 
+<img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
 
 <!-- <p>
     <a title="My Github" href="https://github.com/maurodesouza" target="_blank">
