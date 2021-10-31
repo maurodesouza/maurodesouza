@@ -12,22 +12,37 @@
 
 ## I code with
 
+<a href="https://www.typescriptlang.org" target="_blank">
+  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
+</a>
 
-<img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
+<a href="https://pt-br.reactjs.org" target="_blank">
+ <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react-logo.svg" />
+</a>
 
-<img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react-logo.svg" />
+<a href="https://nextjs.org" target="_blank">
+  <img align="left" title="Next js" alt="Next js" width="40px" src="./assets/next-logo.svg" />
+</a>
 
-<img align="left" title="Next js" alt="Next js" width="40px" src="./assets/next-logo.svg" />
+<a href="https://chakra-ui.com" target="_blank">
+  <img align="left" title="Chakra UI" alt="Chakra UI" width="40px" src="./assets/chakra-ui-logo.svg" />
+</a>
 
-<img align="left" title="Chakra UI" alt="Chakra UI" width="40px" src="./assets/chakra-ui-logo.svg" />
+<a href="https://graphql.org" target="_blank">
+  <img align="left" title="Graphql" alt="Graphql" width="40px" src="./assets/graphql-logo.svg" />
+</a>
 
-<img align="left" title="Graphql" alt="Graphql" width="40px" src="./assets/graphql-logo.svg" />
+<a href="https://jestjs.io/pt-BR/" target="_blank">
+  <img align="left" title="Jest" alt="Jest" width="40px" src="./assets/jest-logo.svg" />
+</a>
 
-<img align="left" title="Jest" alt="Jest" width="40px" src="./assets/jest-logo.svg" />
+<a href="https://www.cypress.io" target="_blank">
+  <img align="left" title="Cypress" alt="Jest" width="40px" src="./assets/cypress-logo.svg" />
+</a>
 
-<img align="left" title="Cypress" alt="Jest" width="40px" src="./assets/cypress-logo.svg" />
-
-<img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
+<a href="https://storybook.js.org" target="_blank">
+  <img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
+</a>
 
 <!-- <p>
     <a title="My Github" href="https://github.com/maurodesouza" target="_blank">
