@@ -6,7 +6,7 @@
 ## About me
 
 - ✨ Creating bugs since 2019
-- 📚 I'm currently learning jest and chakra ui
+- 📚 I'm currently learning tests and docker 🐳
 - 🎯 Goals: earn in dollar 💰 / live in a cold place ❄ and speak english 🚀
 - 🎲 And ... i play 🎸 guitar and ♟ chess online
 
