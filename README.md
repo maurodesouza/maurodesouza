@@ -1,7 +1,5 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza"/>
-
 <p> My name is Mauro and i'm a javascript developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Paraná, Brasil</b>. </p>
 
 ## About me
