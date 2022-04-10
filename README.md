@@ -25,8 +25,8 @@
   <img align="left" title="Next js" alt="Next js" width="40px" src="./assets/next-logo.svg" />
 </a>
 
-<a href="https://chakra-ui.com" target="_blank">
-  <img align="left" title="Chakra UI" alt="Chakra UI" width="40px" src="./assets/chakra-ui-logo.svg" />
+<a href="https://nestjs.com" target="_blank">
+  <img align="left" title="NestJs" alt="NestJs" width="40px" src="./assets/nest-logo.svg" />
 </a>
 
 <a href="https://graphql.org" target="_blank">
