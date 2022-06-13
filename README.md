@@ -1,53 +1,50 @@
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<h1 align="left">Hey 👋 What's up!?</h1>
 
-<p> My name is Mauro and i'm a javascript developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Paraná, Brasil</b>. </p>
+###
+<p align="left">My name is Mauro and i'm a javascript developer, from  Paraná, Brasil.</p>
 
-## About me
+###
+<h1 align="left">About me</h1>
 
-- ✨ Creating bugs since 2019
-- 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and docker 🐳
-- 🎯 Goals: earn in dollar 💰 / live in a cold place ❄ and speak english 🚀
-- 🎲 And ... i play 🎸 guitar and ♟ chess online
+###
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning english  and docker 🐳<br>🎯 Goals: earn in dollar 💰 / live in a cold place ❄ and speak english 🚀<br>🎲 And ... i play 🎸 guitar and ♟ chess online</p>
 
-## I code with
+###
+<div align="center">
+  <img height="180" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
-<a href="https://www.typescriptlang.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
-</a>
+###
+<h2 align="left">I code with</h2>
 
-<a href="https://pt-br.reactjs.org" target="_blank">
- <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react-logo.svg" />
-</a>
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" width="65" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" width="65" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" width="65" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="45" width="65" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="45" width="65" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="45" width="65" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" width="65" alt="azure logo"  />
+</div>
 
-<a href="https://nextjs.org" target="_blank">
-  <img align="left" title="Next js" alt="Next js" width="40px" src="./assets/next-logo.svg" />
-</a>
+###
+<div align="left">
+  <a href="https://www.linkedin.com/in/maurodesouzaa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
+</div>
 
-<a href="https://nestjs.com" target="_blank">
-  <img align="left" title="NestJs" alt="NestJs" width="40px" src="./assets/nest-logo.svg" />
-</a>
+###
+<div align="center">
+  <img src="https://itstommi.vercel.app/api?theme=dark&rainbow=true" alt="Widget with the current Spotify song"  />
+</div>
 
-<a href="https://graphql.org" target="_blank">
-  <img align="left" title="Graphql" alt="Graphql" width="40px" src="./assets/graphql-logo.svg" />
-</a>
+###
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=erickwendel&theme=dracula" alt="Layout with last medium posts"  />
+</div>
 
-<a href="https://jestjs.io/pt-BR/" target="_blank">
-  <img align="left" title="Jest" alt="Jest" width="40px" src="./assets/jest-logo.svg" />
-</a>
-
-<a href="https://www.cypress.io" target="_blank">
-  <img align="left" title="Cypress" alt="Jest" width="40px" src="./assets/cypress-logo.svg" />
-</a>
-
-<a href="https://storybook.js.org" target="_blank">
-  <img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
-</a>
-
-<!-- <p>
-    <a title="My Github" href="https://github.com/maurodesouza" target="_blank">
-        <img alt="Github" src="./assets/github-logo.png" />
-    </a>
-    <a title="My Linkedin" href="https://www.linkedin.com/in/maurodesouzaa" target="_blank">
-        <img alt="LinkedIn" src="./assets/linkedin-logo.png" />
-    </a>
-</p> -->
+###
