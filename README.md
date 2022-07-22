@@ -20,11 +20,11 @@
 </a>
 
 <a href="https://nextjs.org" target="_blank">
-  <img align="left" title="Next js" alt="Next js" width="40px" src="./assets/next-logo.svg" />
+  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next-logo.svg" />
 </a>
 
 <a href="https://nestjs.com" target="_blank">
-  <img align="left" title="NestJs" alt="NestJs" width="40px" src="./assets/nest-logo.svg" />
+  <img align="left" title="Nest Js" alt="Nest Js" width="40px" src="./assets/nest-logo.svg" />
 </a>
 
 <a href="https://go.dev" target="_blank">
@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://graphql.org" target="_blank">
-  <img align="left" title="Graphql" alt="Graphql" width="40px" src="./assets/graphql-logo.svg" />
+  <img align="left" title="GraphQL" alt="GraphQL" width="40px" src="./assets/graphql-logo.svg" />
 </a>
 
 <a href="https://jestjs.io/pt-BR/" target="_blank">
