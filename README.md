@@ -46,12 +46,3 @@
 <a href="https://storybook.js.org" target="_blank">
   <img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
 </a>
-
-<!-- <p>
-    <a title="My Github" href="https://github.com/maurodesouza" target="_blank">
-        <img alt="Github" src="./assets/github-logo.png" />
-    </a>
-    <a title="My Linkedin" href="https://www.linkedin.com/in/maurodesouzaa" target="_blank">
-        <img alt="LinkedIn" src="./assets/linkedin-logo.png" />
-    </a>
-</p> -->
