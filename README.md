@@ -27,6 +27,10 @@
   <img align="left" title="NestJs" alt="NestJs" width="40px" src="./assets/nest-logo.svg" />
 </a>
 
+<a href="https://go.dev" target="_blank">
+  <img align="left" title="Go Lang" alt="Go Lang" width="40px" src="./assets/golang-logo.svg" />
+</a>
+
 <a href="https://graphql.org" target="_blank">
   <img align="left" title="Graphql" alt="Graphql" width="40px" src="./assets/graphql-logo.svg" />
 </a>
