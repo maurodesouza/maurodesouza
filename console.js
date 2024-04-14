@@ -5,3 +5,6 @@ console.log("Hello World") // 2nd Time
 function main() {
 return null ;
 }
+main()
+
+// console.log(main)
