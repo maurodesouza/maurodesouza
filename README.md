@@ -1,13 +1,13 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<p> My name is Mauro and I'm a javascript developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Paraná, Brasil</b>. </p>
+<p> My name is Mauro and I'm a software developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Brasil</b>.</p>
 
 ## About me
 
 - ✨ Creating bugs since 2019
 - 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and docker 🐳
 - 🎯 Goals: live in a cold place ❄ and speak english 🚀
-- 🎲 And ... i play 🎸 guitar and ♟ chess online
+- 🎲 And ... I play 🎸 guitar and ♟ chess online
 
 ## I code with
 
