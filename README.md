@@ -2,6 +2,7 @@
 
 <p> My name is Mauro and I'm a software engineer from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Brasil</b>.</p>
 
+
 ## About me
 
 - ✨ Creating bugs since 2019
@@ -54,3 +55,10 @@
 <a href="https://storybook.js.org" target="_blank">
   <img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
 </a>
+
+<br/>
+<br/>
+
+## Achievements
+
+<a href="https://trendshift.io/developers/13148?utm_source=developer-badge&amp;utm_medium=badge&amp;utm_campaign=badge-developer-13148" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/developers/13148" alt="maurodesouza | Trendshift" width="250" height="55"/></a>
